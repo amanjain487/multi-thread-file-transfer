@@ -3,15 +3,15 @@
 ## Under the Guidance of Damodar K Kulkarni, Asst Professor at Department of Computer Science, Pune University
 
 ## Table of Contents
-- [Table of Contents]()
-- [Why Multiple Server Instances?]
-- [Benefits of Multiple Server Instances]
-- [Description]
-- [Installation/Requirements]
-- [Contents]
-- [Procedure to Run Demo]
-- [Future Planning]
-- [Contributors]
+- [Table of Contents](https://github.com/amanjain487/multi-thread-file-transfer#table-of-contents)
+- [Why Multiple Server Instances?](https://github.com/amanjain487/multi-thread-file-transfer#why-multiple-server-instances)
+- [Benefits of Multiple Server Instances](https://github.com/amanjain487/multi-thread-file-transfer#benefits-of-multiple-server-instances)
+- [Description](https://github.com/amanjain487/multi-thread-file-transfer#description)
+- [Installation/Requirements](https://github.com/amanjain487/multi-thread-file-transfer#installationrequirements)
+- [Contents](https://github.com/amanjain487/multi-thread-file-transfer#contents)
+- [Procedure to Run Demo](https://github.com/amanjain487/multi-thread-file-transfer#procedure-to-run-demo)
+- [Future Planning](https://github.com/amanjain487/multi-thread-file-transfer#future-planning)
+- [Contributors](https://github.com/amanjain487/multi-thread-file-transfer#contributors)
 
 ### Why Multiple Server Instances?
 
